@@ -18,7 +18,7 @@ public class FrequencyOfString {
     }
 
     public static void main( String[] args){
-        String s = "aabccd";
+        String s = "aabcc";
         FrequencyOfString obj = new FrequencyOfString();
         obj.frequencyOfString(s);
     }
